@@ -7,10 +7,10 @@
   <body>
     <table>
       <tr>
-        <td><img src="Raju_Palepu.png" alt="Raju's Profile Picture"></td>
-        <td><h1>Raju Palepu</h1>
-        <p><em>Sr.Software Engineer at <strong><a href="https://www.quest-global.com/">QUEST Global</a></strong>.</em></p>
-        <p>I am a Python Developer and V&V Engineer</p></td>
+      <td><img src="Raju_Palepu.png" alt="Raju's Profile Picture"></td>
+      <td><h1>Raju Palepu</h1>
+      <p><em>Sr.Software Engineer at <strong><a href="https://www.quest-global.com/">QUEST Global</a></strong>.</em></p>
+      <p>I am a Python Developer and V&V Engineer</p></td>
       </tr>
     <hr>
     </table>
