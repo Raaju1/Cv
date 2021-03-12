@@ -12,9 +12,8 @@
         <p><em>Sr.Software Engineer at <strong><a href="https://www.quest-global.com/">QUEST Global</a></strong>.</em></p>
         <p>I am a Python Developer and V&V Engineer</p></td>
       </tr>
-    </table>
     <hr>
-     
+    </table>
     <h3>Professional summary</h3>
     <table cellspacing="10">
       <thead>
