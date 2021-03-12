@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -15,7 +14,7 @@
       </tr>
     </table>
     <hr>
-     <! ---------------------------------------------------------------------------------- -->
+     
     <h3>Professional summary</h3>
     <table cellspacing="10">
       <thead>
@@ -48,7 +47,7 @@
       </tbody>
     </table
     <hr>
-  <! ---------------------------------------------------------------------------------- -->
+  
   <hr>
     <h3>Cirtifications</h3>
     <ul>
